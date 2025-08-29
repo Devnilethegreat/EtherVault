@@ -67,11 +67,3 @@ export class EtherVault {
 if (require.main === module) {
   new EtherVault().run().then((ok) => process.exit(ok ? 0 : 1));
 }
-
-# revision 2 (2025-05-02): review pass
-
-# revision 3 (2025-05-09): review pass
-
-# revision 6 (2025-05-14): review pass
-
-# revision 10 (2025-07-21): review pass
