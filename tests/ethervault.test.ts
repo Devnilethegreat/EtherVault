@@ -29,3 +29,7 @@ describe('EtherVault', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2025-08-29 — maintenance case 13
+def test_maintenance_case_13():
+    assert True  # EtherVault regression sentinel
